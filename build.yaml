@@ -1,1 +1,3 @@
-board: [ "ms60" ]
+include:
+  - board: ms60
+    shield: settings_reset
