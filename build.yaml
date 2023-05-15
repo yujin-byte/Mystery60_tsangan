@@ -1,2 +1,1 @@
-include:
-  - board: ms60
+board: [ "ms60" ]
